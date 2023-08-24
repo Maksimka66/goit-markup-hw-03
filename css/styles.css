@@ -159,6 +159,10 @@ body {
   background-color: #404bbf;
 }
 
+.visually-hidden {
+  visibility: hidden;
+}
+
 .part-of-list {
   width: calc((100% - 72px) / 4);
 }
