@@ -74,7 +74,6 @@ ul {
   gap: 40px;
   padding: 24px 0;
   display: flex;
-  gap: 24px;
 }
 
 .link:focus {
@@ -212,7 +211,7 @@ body {
   text-transform: capitalize;
   color: #2e2f42;
   max-width: 218px;
-  margin-bottom: 8px;
+  margin-bottom: 72px;
 }
 
 .headers-fourth-section {
@@ -221,6 +220,7 @@ body {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  margin-bottom: 8px;
 }
 
 .pages-fourth-section {
@@ -243,8 +243,8 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
-  display: inline-block;
   margin-bottom: 16px;
+  display: inline-block;
 }
 
 .logo-part-second {
@@ -264,7 +264,6 @@ body {
 
 .menu-third {
   list-style-type: none;
-  gap: 40px;
   padding: 24px 0;
   display: flex;
   gap: 24px;
