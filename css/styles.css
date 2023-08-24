@@ -154,8 +154,7 @@ body {
   background-color: #4d5ae5;
   cursor: pointer;
   display: block;
-  max-width: 169px;
-  max-height: 56px;
+  height: 56px;
   border-radius: 4px;
   border: none;
   min-width: 169px;
