@@ -27,6 +27,13 @@ ul {
   margin: 0 auto;
 }
 
+.container-first {
+  max-width: 1158px;
+  padding: 0 15px;
+  margin: 0 auto;
+  display: flex;
+}
+
 .visually-hidden {
   position: absolute;
   width: 1px;
