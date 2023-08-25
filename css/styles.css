@@ -104,7 +104,6 @@ ul {
 .first-section {
   background-color: #2e2f42;
   padding: 188px 0;
-  text-align: center;
 }
 
 .menu-second-section {
@@ -150,7 +149,8 @@ body {
   color: #ffffff;
   max-width: 496px;
   margin-bottom: 48px;
-  margin-left: 300px;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 .order-service {
@@ -167,7 +167,8 @@ body {
   border-radius: 4px;
   border: none;
   min-width: 169px;
-  margin-left: 450px;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 .second-section {
